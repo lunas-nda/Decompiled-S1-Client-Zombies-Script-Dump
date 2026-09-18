@@ -1,0 +1,1 @@
+A compilation of exo zombies scripts dumped using the (S1 Mod client's script dump command)[https://git.alterware.dev/alterware/s1-mod] and decompiled using [xensik's gsc tool](https://github.com/xensik/gsc-tool) for analysis ig 
